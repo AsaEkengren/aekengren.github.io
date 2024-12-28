@@ -195,15 +195,7 @@ sidebar:
             order: 510
             category: Influences 🧠
 
-# BADGES
-# Feature that allows to display badges into the footer https://shields.io image html and url
-shields:
-    -   image_html: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/olivier3lanc/Jekyll-LibDoc?logo=github&style=flat-square">
-        link_url: https://github.com/olivier3lanc/Jekyll-LibDoc
-    -   image_html: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/olivier3lanc/Jekyll-LibDoc?logo=github&style=flat-square">
-        link_url: https://github.com/olivier3lanc/Jekyll-LibDoc
-
-# ADDITIONAL LINKS
+    # ADDITIONAL LINKS
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
@@ -219,6 +211,14 @@ shields:
         #     order: 100 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
         #     iframe_mode: true
         #     category: Features
+
+# BADGES
+# Feature that allows to display badges into the footer https://shields.io image html and url
+shields:
+    -   image_html: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/olivier3lanc/Jekyll-LibDoc?logo=github&style=flat-square">
+        link_url: https://github.com/olivier3lanc/Jekyll-LibDoc
+    -   image_html: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/olivier3lanc/Jekyll-LibDoc?logo=github&style=flat-square">
+        link_url: https://github.com/olivier3lanc/Jekyll-LibDoc
 
 # ASSETS
 # Settings for the assets layout
