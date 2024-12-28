@@ -4,8 +4,8 @@
 # ---------
 
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
-# url: http://aekengren.github.io
-# baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog
+url: "https://aekengren.github.io"
+baseurl: ""
 #permalink: /:path/:basename/:output_ext
 #destination: ../your/new/path # Build relative path destination. The destination directory e.g. /blog
 #keep_files: [cache]
