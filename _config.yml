@@ -178,11 +178,11 @@ sidebar:
         -   url: 
             title: About 🙋‍♂️
             order: 500
-            category: **About Me** 👋
+            category: About Me 👋
         -   url: /pages/resume.md
             title: Resume 💼
             order: 500
-            category: **About Me** 👋
+            category: About Me 👋
         # Music Section
         -   url: 
             title: Idiacanthus
