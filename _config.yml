@@ -3,10 +3,8 @@
 # More info at https://jekyllrb.com/docs/configuration/options/
 # ---------
 
-title: Asa Ekengren # title of the documentation
-description: Testing place for description # Description of the docs. (>- means to ignore newlines until next param)
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
-url: http://aekengren.github.io
+# url: http://aekengren.github.io
 # baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog
 #permalink: /:path/:basename/:output_ext
 #destination: ../your/new/path # Build relative path destination. The destination directory e.g. /blog
