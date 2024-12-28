@@ -159,6 +159,23 @@ sidebar:
         # If no logo url, font size of the site title, ignored if url is set
         font_size: 32px
 
+    # ADDITIONAL LINKS
+    # Allows to add links that are not pages included into the project
+    # Display additional links anywhere into the sidebar
+    additional_links:
+        -   url: https://github.com/AsaEkengren # Local or remote URL
+            title: <span class="i-github u-mr-xxs"></span> GitHub # Link text
+            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+        -   url: https://www.linkedin.com/in/aekengren/ # Local or remote URL
+            title: <span class="i-linkedin u-mr-xxs"></span> LinkedIn # Link text
+            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            # category: Showcase # Add this this link into a category just like pages
+        # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
+        #     title: Iframe mode example # Link text
+        #     order: 100 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+        #     iframe_mode: true
+        #     category: Features
+
         # Personal Section
         -   url: 
             title: About 🙋‍♂️
@@ -194,23 +211,6 @@ sidebar:
             title: Speaches 📢
             order: 510
             category: Influences 🧠
-
-    # ADDITIONAL LINKS
-    # Allows to add links that are not pages included into the project
-    # Display additional links anywhere into the sidebar
-    additional_links:
-        -   url: https://github.com/AsaEkengren # Local or remote URL
-            title: <span class="i-github u-mr-xxs"></span> GitHub # Link text
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
-        -   url: https://www.linkedin.com/in/aekengren/ # Local or remote URL
-            title: <span class="i-linkedin u-mr-xxs"></span> LinkedIn # Link text
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
-            # category: Showcase # Add this this link into a category just like pages
-        # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
-        #     title: Iframe mode example # Link text
-        #     order: 100 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
-        #     iframe_mode: true
-        #     category: Features
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
