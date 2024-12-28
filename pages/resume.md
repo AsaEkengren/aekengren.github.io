@@ -8,7 +8,7 @@ layout: libdoc/page
 * Table of Contents
 {:toc}
 
-# Professional Experience :briefcase:
+# Professional Experience 💼
 
 ## SOP Manager @ [Tepa Companies](http://tepa.com)
 **Orlando, FL**  
@@ -81,7 +81,7 @@ layout: libdoc/page
 
 ---
 
-# Education :mortar_board:
+# Education 🎓
 
 ## M.A. in Contemporary History  
 **Universidad Complutense de Madrid** (2012)  
@@ -97,7 +97,7 @@ layout: libdoc/page
 
 ---
 
-# Achievements :trophy:
+# Achievements 🏆
 
 - **2012-2014**: All-but-dissertation for Ph.D. in History of Science, Medicine & Technology @ Universitat Autónoma de Barcelona.
 - **2018-Current**: Member of the [International Jacques Ellul Society (IJES)](https://ellul.org).
