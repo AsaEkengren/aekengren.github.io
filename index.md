@@ -31,7 +31,6 @@ iframe_mode: true
         <p  scroll-btween="test6_2"
             data-text-indent="|-200 to 0|px">However, despite overlapping tree branches, rainforest canopy trees rarely touch each other.</p>
     </article>
-    <p id="notice">This page was generated with <a href="libdoc-layouts.html#playground" target="_parent">libdoc/playground</a> - <a href="https://github.com/olivier3lanc/Jekyll-LibDoc/blob/develop/libdoc-layout-playground.html" target="_blank">Source code</a></p>
 </section>
 <style>
     body {
@@ -45,7 +44,7 @@ iframe_mode: true
         width: 100%;
         height: 100vh;
         overflow: hidden;
-        background: center / cover no-repeat url('{{'/assets/bio-photo.jpg'|absolute_url}}');
+        background: center / cover no-repeat url('{{'assets/bio-photo.jpg'|absolute_url}}');
         background-clip: text;
         -webkit-background-clip: text;
         color: transparent;
