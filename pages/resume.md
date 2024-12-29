@@ -1,7 +1,7 @@
 ---
 permalink: /resume/
 title: "Resume"
-layout: libdoc/page-split
+layout: libdoc/page
 hidden: true
 ---
 
