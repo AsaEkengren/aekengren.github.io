@@ -17,9 +17,9 @@ category: About Me 👋
 ### Business Development Analyst @ [Hatalom Corporation](https://www.hatalom.com)
 **Orlando, FL**  
 *June 2023 – September 2023*  
-- Coordinated and led proposal efforts in response to multimillion-dollar government solicitations.
-- Primary offerings included operations & maintenance support, simulation and training services, engineering, software development, and cybersecurity.
-- Led the past performance volume on Hatalom's winning bid for the single award ID/IQ contract, Computer Based Instructional Development (CBID) III, with a ceiling of $49.3M over five years.
+- Coordinated and led proposal efforts for multimillion-dollar government solicitations for support in operations & maintenance, simulation and training services, engineering, software development, and cybersecurity.
+- Led business development and proposal efforts for Hatalom's winning bid for the GSA OASIS+ ID/IQ for logistics contracts [Link](https://www.hatalom.com/post/hatalom-corporation-awarded-oasis-contracts-in-logistic-domain)
+- Led the past performance volume on Hatalom's winning bid for the single award ID/IQ contract, Computer Based Instructional Development (CBID) III, with a ceiling of $49.3M over five years [Link](https://www.hatalom.com/post/hatalom-corporation-awarded-49-3-million-u-s-army-contract-to-advance-simulation-and-training-tech) 
 
 ---
 
