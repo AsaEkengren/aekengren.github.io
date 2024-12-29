@@ -46,7 +46,7 @@ iframe_mode: true
         width: 100%;
         height: 100vh;
         overflow: hidden;
-        background: center / cover no-repeat url('{{'demo-only/img/image-reveal.webp'|absolute_url}}');
+        background: center / cover no-repeat url('{{'assets/bio-photo.jpg'|absolute_url}}');
         background-clip: text;
         -webkit-background-clip: text;
         color: transparent;
