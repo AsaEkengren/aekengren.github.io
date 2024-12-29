@@ -189,10 +189,16 @@ sidebar:
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
 shields:
-  - image_html: <img alt="GitHub" src="https://img.shields.io/github/followers/AsaEkengren?logo=github&style=flat-square">
+  - image_html: <img alt="GitHub" src="https://img.shields.io/github/followers/AsaEkengren?logo=github&style=flat-square&color=181717">
     link_url: https://github.com/AsaEkengren
-  - image_html: <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square">
+  - image_html: <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=flat-square">
     link_url: https://www.linkedin.com/in/aekengren/
+  - image_html: <img alt="Discogs" src="https://img.shields.io/badge/Discogs-Profile-2A5F87?logo=discogs&style=flat-square">
+    link_url: https://www.discogs.com/user/aekengren
+  - image_html: <img alt="Last.fm" src="https://img.shields.io/badge/Last.fm-Scrobbles-D51007?logo=last.fm&style=flat-square">
+    link_url: https://www.last.fm/user/Ekengren
+  - image_html: <img alt="RateYourMusic" src="https://img.shields.io/badge/RateYourMusic-Reviews-FBBF24?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAiLnrsAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH5AUUEjodOfA02wAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAAhSURBVCjPY2RgYPgfhLgYUYAHIwMj/ykNHoGgBpCoqwEJC1AADFGAsBvmTScAAAAAElFTkSuQmCC&style=flat-square&color=F59E0B">
+    link_url: https://rateyourmusic.com/~aekengren
 
 # ASSETS
 # Settings for the assets layout
