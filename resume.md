@@ -1,9 +1,8 @@
 ---
-title: "Resume 💼"
+title: Resume 💼
 layout: libdoc/page
 category: About Me 👋
 ---
-# Resume 💼
 
 ## Professional Experience 💼
 

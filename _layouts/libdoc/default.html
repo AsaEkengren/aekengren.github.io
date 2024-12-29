@@ -9,10 +9,6 @@
         <footer class="u-p-lg u-fs-sm u-c-primary-alt u-mt-md">
             <nav class="c-grid m-space-between m-bottom">
                 <ul class="u-ls-none u-mb-md--sm">
-                    <li>
-                        <a href="{{ site.url }}{{ site.baseurl }}" class="c-btn m-translucid u-pl-none">{{ site.title | escape }}</a><br>
-                        {{ site.description | escape }} {% if site.metadata.author %}© {{ site.metadata.author }}{% endif %}
-                    </li>
                     {% if site.shields %}
                         <li class="u-mt-md">
                             {% include libdoc/shields.html %}
