@@ -176,19 +176,6 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
 
-        # Music Section
-        -   url: 
-            title: CAL
-            order: 500
-            category: Bands 🎼
-        -   url: 
-            title: Capgras
-            order: 500
-            category: Bands 🎼
-        -   url: 
-            title: El Pentágono del Poder
-            order: 500
-            category: Bands 🎼
         # Influences
         -   url:
             title: Books 📙
