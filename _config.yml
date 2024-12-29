@@ -181,7 +181,7 @@ sidebar:
             title: About 🙋‍♂️
             order: 500
             category: About Me 👋
-        -   url: resume.md
+        -   url: /resume.html
             title: Resume 💼
             order: 500
             category: About Me 👋
