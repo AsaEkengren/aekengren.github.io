@@ -3,10 +3,9 @@ title: Resume 💼
 layout: libdoc/page
 category: About Me 👋
 ---
-*
-{:toc}
 
 # Professional Experience 💼
+{:toc}
 
 ## SOP Manager @ [Tepa Companies](http://tepa.com)
 **Orlando, FL**  

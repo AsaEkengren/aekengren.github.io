@@ -1,5 +1,5 @@
 ﻿---
-title: Welcome 👋
+title: "Welcome 👋"
 description: Asa Ekengren's personal corner of the abyssnet
 layout: libdoc/page
 ---
