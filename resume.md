@@ -1,5 +1,4 @@
 ---
-permalink: /resume/
 title: Resume 💼
 layout: libdoc/page
 category: About Me 👋
