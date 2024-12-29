@@ -1,0 +1,10 @@
+:root {
+    --sg-color-primary: #1a73e8; /* New primary color */
+    --sg-color-primary-alt: #2c8ef4; /* New alternate primary */
+    --sg-color-primary-edge: #e3f2fd; /* New lighter edge color */
+    --sg-color-primary-max: #ffffff; /* New maximum color */
+    --sg-color-hilight: #ff4081; /* New highlight color */
+    --sg-color-hilight-alt: #ff80ab; /* New alternate highlight */
+    --sg-color-hilight-edge: #ffb3d9; /* New highlight edge */
+    --sg-color-hilight-ultra: #d500f9; /* New ultra highlight */
+}
