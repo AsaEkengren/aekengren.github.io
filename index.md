@@ -2,9 +2,8 @@
 title: Welcome 👋
 description: Asa Ekengren's personal corner of the abyssnet
 layout: libdoc/playground
+iframe_mode: false
 ---
-iframe_mode: true
-
 <section id="wrapper-playground">
     <article id="element">
         <p  scroll-btween="test1"
