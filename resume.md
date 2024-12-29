@@ -2,8 +2,9 @@
 title: Resume 💼
 layout: libdoc/page
 category: About Me 👋
-toc: true
 ---
+*
+{:toc}
 
 # Professional Experience 💼
 
