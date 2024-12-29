@@ -212,7 +212,7 @@ shields:
 assets:
     # START PATH
     # The path from which files are available to download. '/' is the root
-    path_from_root: /
+    path_from_root: /assets/
     # List of extension files you wish to display on assets layout
     extensions_enabled: 
         - pdf

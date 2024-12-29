@@ -1,9 +1,9 @@
+---
 layout: libdoc/page
 category: About Me 👋
 iframe_mode: true
-* Table of Contents
-{:toc}
-
+toc: true
+---
 # Resume 💼
 
 ## Professional Experience 💼
