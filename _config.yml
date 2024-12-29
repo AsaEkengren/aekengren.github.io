@@ -90,7 +90,7 @@ playground:
         
         # PLAYGROUND AUTHOR NAME
         # Sets the name of the author for the playground. Default is empty.
-        author: 
+        author: Asa Ekengren
 
         # PLAYGROUND THEME COLOR
         # Theme color metadata used in some browsers like Chrome that applies this color on browser address bar.
@@ -163,12 +163,12 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        -   url: https://github.com/AsaEkengren # Local or remote URL
-            title: <span class="i-github u-mr-xxs"></span> GitHub
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
-        -   url: https://www.linkedin.com/in/aekengren/ # Local or remote URL
-            title: <span class="i-linkedin u-mr-xxs"></span> LinkedIn
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+        # -   url: https://github.com/AsaEkengren # Local or remote URL
+        #     title: <span class="i-github u-mr-xxs"></span> GitHub
+        #     order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+        # -   url: https://www.linkedin.com/in/aekengren/ # Local or remote URL
+        #     title: <span class="i-linkedin u-mr-xxs"></span> LinkedIn
+        #     order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
             # category: Showcase # Add this this link into a category just like pages
         # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
         #     title: Iframe mode example # Link text
@@ -176,15 +176,6 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
 
-        # Personal Section
-        -   url: 
-            title: About 🙋‍♂️
-            order: 500
-            category: About Me 👋
-        -   url: /resume.html
-            title: Resume 💼
-            order: 500
-            category: About Me 👋
         # Music Section
         -   url: 
             title: Idiacanthus
