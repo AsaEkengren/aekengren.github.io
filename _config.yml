@@ -142,9 +142,10 @@ metadata:
 # SIDEBAR 
 # Main navigation containing site/project's logo, pages links and search form.
 sidebar:
-    # SEARCH FEATURE
+    # SEARCH & AUTO-LINKS FEATURE
     # Enable or disable search feature
     disable_search: true
+    disable_autolinks: true
 
     # LOGO
     # Top left branding/homepage link, specified image URL or site title if no URL is set
