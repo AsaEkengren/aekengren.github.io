@@ -88,17 +88,6 @@ layout: libdoc/page
                 </a>
                 <nav class="u-m-none u-ta-center">
                     <p class="c-text m-fs-xs m-ff-lead-strong u-mt-sm u-mb-sm u-c-primary-alt u-lh-base" m-fs-xxs="sm">{{ file.name }}</p> 
-                    <button class="c-btn m-translucid u-p-sm"
-                            title="Copy URL"
-                            onclick="copyToClipboard('{{ site.url }}{{ site.baseurl }}{{ file.path }}')">
-                        <span class="i-copy u-mr-xs"></span>
-                    </button>
-                    <a  href="{{ site.baseurl }}{{ file.path }}" 
-                        class="c-btn u-p-sm"
-                        title="Download file"
-                        download>
-                        <span class="i-download"></span>
-                    </a>
                 </nav>
             </li>
         {% endif %}

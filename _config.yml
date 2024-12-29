@@ -178,10 +178,6 @@ sidebar:
 
         # Music Section
         -   url: 
-            title: Idiacanthus
-            order: 500
-            category: Bands 🎼
-        -   url: 
             title: CAL
             order: 500
             category: Bands 🎼
