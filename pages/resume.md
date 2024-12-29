@@ -1,13 +1,10 @@
 ---
-permalink: /resume/
 title: "Resume"
 layout: libdoc/page
 hidden: true
----
-
 * Table of Contents
 {:toc}
-
+---
 # Professional Experience 💼
 
 ## SOP Manager @ [Tepa Companies](http://tepa.com)
