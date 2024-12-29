@@ -1,9 +1,7 @@
 ---
-title: Resume 💼
+title: "Resume 💼"
 layout: libdoc/page
 category: About Me 👋
-iframe_mode: true
-toc: true
 ---
 # Resume 💼
 
