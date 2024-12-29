@@ -3,6 +3,7 @@ permalink: /resume/
 title: "Resume"
 toc_sticky: true
 layout: libdoc/page
+hidden: true
 ---
 
 * Table of Contents
