@@ -1,79 +1,94 @@
 ﻿---
 title: Welcome 👋
 description: Asa Ekengren's personal corner of the abyssnet
-layout: libdoc/playground
-iframe_mode: true
-iframe_src: /index.html
+layout: libdoc/page
 ---
-<section id="wrapper-playground">
-    <article id="element">
-        <p  scroll-btween="test1"
-            data-text-indent="|0 to -200|px">the canopy is the aboveground portion of a plant croping or crop, formed by the collection of individual plant crowns.</p>
-        <p  scroll-btween="test2"
-            data-text-indent="|-200 to 0|px">In forest ecology, canopy also refers to the upper layer or habitat zone, formed by mature tree crowns and including other biological organisms </p>
-        <p  scroll-btween="test3"
-            data-text-indent="|0 to -200|px">Sometimes the term canopy is used to refer to the extent of the outer layer of leaves of an individual tree or group of trees.</p>
-        <p  scroll-btween="test4"
-            data-text-indent="|-200 to 0|px">Shade trees normally have a dense canopy that blocks light from lower growing plants. </p>
-        <p  scroll-btween="test5"
-            data-text-indent="|0 to -200|px">Early observations of canopies were made from the ground using binoculars or by examining fallen material</p>
-        <p  scroll-btween="test6"
-            data-text-indent="|-200 to 0|px">Researchers would sometimes erroneously rely on extrapolation by using more reachable samples taken from the understory.</p>
-        <p  scroll-btween="test1_2"
-            data-text-indent="|0 to -200|px">In some cases, they would use unconventional methods such as chairs suspended on vines or hot-air dirigibles, among others.
-        </p>
-        <p  scroll-btween="test2_2"
-            data-text-indent="|-200 to 0|px">Modern technology, including adapted mountaineering gear, has made canopy observation significantly easier and more accurate</p>
-        <p  scroll-btween="test3_2"
-            data-text-indent="|0 to -200|px">Canopy structure is the organization or spatial arrangement of a plant canopy.</p>
-        <p  scroll-btween="test4_2"
-            data-text-indent="|-200 to 0|px">The canopy is taller than the understory layer. The canopy holds 90% of the animals in the rainforest. </p>
-        <p  scroll-btween="test5_2"
-            data-text-indent="|0 to -200|px">They cover vast distances and appear to be unbroken when observed from an airplane. </p>
-        <p  scroll-btween="test6_2"
-            data-text-indent="|-200 to 0|px">However, despite overlapping tree branches, rainforest canopy trees rarely touch each other.</p>
-    </article>
-</section>
+
+<article class="wrapper-playground gyp1" scroll-btween="gyp-back" data-detector="detector" data-background-position="|70 to 30|% center">
+    <header>
+        <h1>Free like <span>a bird</span></h1>
+        <p>Gypaetus barbatus</p>
+    </header>
+    <figure scroll-btween="gyp-front" data-detector="detector" data-left="|3 to -3|%" data-top="|0 to -20|%">
+        <img src="https://olivier3lanc.github.io/Scroll-Btween/img/gyp-front-1000.webp" alt="Bearded vulture">
+    </figure>
+</article>
+<div id="detector"></div>
+<article class="wrapper-playground gyp2" scroll-btween="gyp-back2" data-background-position="|30 to 70|% center">
+    <header>
+        <h1>Bearded <span>vulture</span></h1>
+        <p>Gypaetus barbatus</p>
+    </header>
+    <figure scroll-btween="gyp-front2" data-left="|0 to 13|%" data-top="|0 to -5|%">
+        <img src="https://olivier3lanc.github.io/Scroll-Btween/img/gyp2-front-1000.webp" alt="Bearded vulture">
+    </figure>
+</article>
+<p>Photo credits Olivier 3lanc</p>
 <style>
     body {
-        margin: 0; padding:0;
+        margin: 0; padding:0; height: 400vh;
     }
-    #wrapper-playground {
-        height: 200vh;
-        background: black;
-    }
-    #element {
-        width: 100%;
-        height: 100vh;
-        overflow: hidden;
-        background: center / cover no-repeat url('{{'assets/bio-photo.jpg'|absolute_url}}');
-        background-clip: text;
-        -webkit-background-clip: text;
-        color: transparent;
-        font-size: 10vh;
-        text-transform: uppercase;
-        font-family: sans-serif;
-        font-weight: bold;
-        letter-spacing: -0.05em;
-        line-height: 1em;
-        text-align: center;
-    }
-    #element p {
-        margin: 0;
-        background-clip: text;
-        -webkit-background-clip: text;
-        color: transparent;
-        white-space: nowrap;
-        width: 100%;
-    }
-    #notice {
-        position: fixed;
-        bottom: 0;
+    .wrapper-playground {
+        position: relative;
+        top: 0;
         left: 0;
         width: 100%;
-        padding: 1em;
-        background-color: #FFFFFFCC;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        background-size: 120%;
+        background-position: 40% center;
+        background-repeat: no-repeat;
+    }
+    .wrapper-playground.gyp1 {
+        background-image: url(https://olivier3lanc.github.io/Scroll-Btween/img/gyp-back-1000.webp);
+    }
+    .wrapper-playground.gyp2 {
+        background-image: url(https://olivier3lanc.github.io/Scroll-Btween/img/gyp2-back-1000.webp);
+    }
+    .wrapper-playground::before {
+        content: '';
+        float: left;
+        padding-bottom: 66.66%;
+    }
+    figure {
+        display: flex;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        line-height: 0;
         margin: 0;
+        padding: 0;
+    }
+    figure img {
+        max-width: 100%;
+        max-height: 100%;
+        width: 100%;
+        height: auto;
+    }
+    header {
+        text-align: center;
+        color: #FFFFFFc2;
+    }
+    header h1 {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 13vw;
         font-family: sans-serif;
     }
+    header h1 span {
+        display: block;
+        position: relative; /* Sets in front of the image */
+        z-index: 1; /* Sets in front of the image */
+    }
+    header p {
+        margin: 0;
+        font-style: italic;
+        font-size: 5vmin;
+    }
+    body > p { text-align: right; font-size: 12px; padding-right: 1em }
+    #detector { position: absolute; top: 100vh; }
 </style>
