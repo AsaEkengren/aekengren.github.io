@@ -1,5 +1,6 @@
+﻿---
 layout: libdoc/assets
-category: Bands ??
+category: Bands 🎼
 assets:
     path_from_root: /assets/idiacanthus/
     extensions_enabled: # File extension to display
@@ -7,5 +8,6 @@ assets:
         - gif
         - webp
         - png
+---
 
 # Testing title
