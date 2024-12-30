@@ -12,6 +12,8 @@ title: Quotes 💬
 
 <cite>David Graeber</cite> in "The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy" (2015)
 
+***
+
 > “Those who believe in telekinetics, raise my hand.”
 
 <cite>Kurt Vonnegut</cite>
@@ -20,6 +22,7 @@ title: Quotes 💬
 
 <cite>Martin Luther King Jr.</cite>
 
+***
 
 > “People will come to adore the technologies that undo their capacities to think.”  
 > “It is not necessary to conceal anything from a public insensible to contradiction and narcotized by technological diversions.”  

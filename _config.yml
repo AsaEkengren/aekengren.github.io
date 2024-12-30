@@ -176,16 +176,6 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
 
-        # Influences
-        -   url:
-            title: Books 📙
-            order: 510
-            category: Influences 🧠
-        -   url:
-            title: Speaches 📢
-            order: 510
-            category: Influences 🧠
-
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
 shields:
