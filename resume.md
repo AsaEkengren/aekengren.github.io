@@ -3,6 +3,8 @@ title: Resume 💼
 description: Professional & academic experience
 layout: libdoc/page
 category: About Me 👋
+toc:
+    enabled: true
 ---
 
 # Professional Experience 💼
